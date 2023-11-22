@@ -9,9 +9,9 @@ export default async (req, res) => {
     },
     {
       id: 2,
-      image: "https://instagram.fszf2-1.fna.fbcdn.net/v/t51.2885-19/400626705_270071646018449_8590311698300496875_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fszf2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=F3-8cKoUtG4AX9aHPNW&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBIiqyhae3MGLg8jQKOeiZOZNmrrRFg5ioWrJBwHIKwWQ&oe=6563FCE6&_nc_sid=8b3546",
+      image: "https://hizliresim.com/mak5z3f.jpg",
       name: "Wojakapk",
-      description: "Wojakapk instagram üzerinden yönettiğim bir hesaptır aktif olarak 54k takipçisi bulunmaktadır.",
+      description: "Wojakapk instagram üzerinden yönettiğim bir hesaptır, aktif olarak 54k takipçisi bulunmaktadır.",
       link: "https://instagram.com/wojakapk",
     }
   ];
