@@ -8,10 +8,10 @@ const items = [
   ]
 
 const navItems = [
-    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
-    { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
-    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://blog.umut.live' }
+    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Ana Sayfa', href: '/' },
+    { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projeler', href: '/projects' },
+    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'İletişim', href: '/contact' },
+    
 ]
 
 import Link from 'next/link';
