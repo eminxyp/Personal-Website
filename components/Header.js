@@ -1,6 +1,6 @@
 
 const items = [
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/eminxyp' },
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/@eminxyp' },
     { icon: 'fab fa-twitch', link: 'https://twitch.com/eminxyp' },
     { icon: 'fab fa-discord', link: 'https://discord.com/users/1033338920240418837' },
     { icon: 'fab fa-instagram', link: 'https://instagram.com/eminxyp' },
