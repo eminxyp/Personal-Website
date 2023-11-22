@@ -1,11 +1,11 @@
 
 const items = [
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/UmutBayraktarYT' },
-    { icon: 'fab fa-twitch', link: 'https://twitch.com/umutyzx' },
-    { icon: 'fab fa-discord', link: 'https://discord.com/users/615029465726320654' },
-    { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
-    { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/eminxyp' },
+    { icon: 'fab fa-twitch', link: 'https://twitch.com/eminxyp' },
+    { icon: 'fab fa-discord', link: 'https://discord.com/users/1033338920240418837' },
+    { icon: 'fab fa-instagram', link: 'https://instagram.com/eminxyp' },
+    { icon: 'fab fa-facebook', link: 'https://facebook.com/eminxyp' },
+    { icon: 'fab fa-github', link: 'https://github.com/eminxyp' },
   ]
 
 const navItems = [
@@ -23,7 +23,7 @@ const Header = () => {
     return <>
         <div className="w-full border-b-2 border-neutral-800/20 pb-2">
             <div className="flex flex-col md:flex-row w-full items-center md:justify-between">
-                <p className="font-semibold font-Poppins text-xl">UB</p>
+                <p className="font-semibold font-Poppins text-xl">EminXYP</p>
                 <div className="flex items-center space-x-2">
                     {items.map(item => (
                         <a key={item.link} href={item.link} target="_blank" rel="noreferrer" className="flex items-center justify-center hover:bg-neutral-700/20 rounded-xl transition-all duration-150 p-2 px-3">
