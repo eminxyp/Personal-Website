@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-Merhaba! Ben Emin, 15 yaşındayım ve yazılıma meraklı bir gençim. Web geliştirme konusunda kendimi geliştirmeye çalışıyorum ve yeni şeyler öğrenmeyi seviyorum. Hobilerim arasında kod yazmak, web siteleri oluşturmak ve teknolojiyle ilgili içerikleri takip etmek yer alıyor. Amacım, bu alanda kendimi daha da geliştirerek ileride profesyonel bir yazılımcı olmak. 
+Merhaba! Ben Emin, 15 yaşındayım ve yazılıma meraklı bir gencim. Web geliştirme konusunda kendimi geliştirmeye çalışıyorum ve yeni şeyler öğrenmeyi seviyorum. Hobilerim arasında kod yazmak, web siteleri oluşturmak ve teknolojiyle ilgili içerikleri takip etmek yer alıyor. Amacım, bu alanda kendimi daha da geliştirerek ileride profesyonel bir yazılımcı olmak. 
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
