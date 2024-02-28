@@ -30,7 +30,7 @@ Merhaba! Ben Emin, 15 yaşındayım ve yazılıma meraklı bir gencim. Web geli�
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="umutbayraktar" src={`https://cdn.discordapp.com/attachments/1120773551255978106/1176938380664250520/sm7qozo.jpeg?ex=6570b048&is=655e3b48&hm=f3ecd07d68899b2d9efc01dc2e495a971538b62290bf79d7a8e3448bda3c54ba&`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="eminxyp" src={`https://cdn.discordapp.com/avatars/1033338920240418837/76eab29aa5631b0a3f07ea6f385aea53.png?size=1024`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
