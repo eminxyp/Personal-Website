@@ -2,14 +2,14 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://cdn.discordapp.com/attachments/1056959846936748166/1109407852445044856/png_20230520_120953_0000.png?ex=656af493&is=65587f93&hm=40ad15bcf8e77edfff17671cb1ed891def5e5927f76be06e509edfe4301d8750&",
+      image: "https://cdn.discordapp.com/attachments/1213892717495722115/1216376735453548544/adsads.webp?ex=66002a1c&is=65edb51c&hm=0917b606f99919d299c0591ca41571a6b5766db21a0b1d8cf4cd0d367aafa4f1&",
       name: "CodeTR",
       description: "CodeTR discord platformunda bulunan topluluk yazılımım sunucusudur.",
       link: "https://discord.gg/JzqXrWFBjZ",
     },
     {
       id: 2,
-      image: "https://cdn.discordapp.com/attachments/1120773551255978106/1176965296427384914/wojakk1-min.jpg?ex=6570c959&is=655e5459&hm=0a221a58e7d33b2bba300300aa817498461e12323f4dd77a93b2c57059ec9297&.",
+      image: "https://cdn.discordapp.com/attachments/1213892717495722115/1216384961427538030/400626705_270071646018449_8590311698300496875_n.jpg?ex=660031c6&is=65edbcc6&hm=ad37880f56b400b48fe56a0358f2d85d7394d5b743c878ec4eca3c0225e74a87&",
       name: "Wojakapk",
       description: "Wojakapk instagram üzerinden yönettiğim bir hesaptır, aktif olarak 54k takipçisi bulunmaktadır.",
       link: "https://instagram.com/wojakapk",
